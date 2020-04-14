@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: brown;
+}
+
+span .img {
+  background-image: url(img/covid-img1.jpg) no-repeat;
+  display: block;
+  width: 900px;
+}
