@@ -1,0 +1,12 @@
+{
+  "name": "frontendapp",
+  "version": "1.0.0",
+  "description": "Frontend UI Web App for Covid-19 Estimator",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Anjola Adeuyi",
+  "homepage": "https://AJProduction.github.io/frontendapp",
+  "license": "MIT"
+}
