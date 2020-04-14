@@ -8,5 +8,8 @@
   },
   "author": "Anjola Adeuyi",
   "homepage": "https://AJProduction.github.io/frontendapp",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
